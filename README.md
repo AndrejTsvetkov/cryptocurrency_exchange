@@ -93,3 +93,20 @@ POST /trade
 ```
 
 Performs the specified operation for the specified user. 
+
+## Technologies Used
+
+- Python
+- Poetry
+- Flask
+- SQLAlchemy
+- Pydantic
+- Pytest
+- Git
+- GitHub
+- Docker
+- Docker Compose
+
+## Authors
+
+- [@AndrejTsvetkov](https://www.github.com/AndrejTsvetkov)

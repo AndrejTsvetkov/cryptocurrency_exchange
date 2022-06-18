@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "homework4"
+name = "Cryptocurrency exchange"
 version = "1.0.0"
 description = "Cryptocurrency exchange"
 authors = ["Andrej Tsvetkov  <cvetkoandrejj@gmail.com>"]
