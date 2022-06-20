@@ -1,8 +1,10 @@
-# homework4
+# Cryptocurrency exchange
 
 ## Description:
 
 Cryptocurrency exchange where users can buy and sell currency.
+
+## Makefile commands
 
 ### Create venv:
     make venv
@@ -22,7 +24,7 @@ Cryptocurrency exchange where users can buy and sell currency.
 ### Run server
     make up
 
-## Api:
+## Api Endpoints
 
 ```http
 POST /currency/add
